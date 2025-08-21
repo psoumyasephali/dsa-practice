@@ -1,6 +1,11 @@
+//Ignore temporary files
 *.out
 *.exe
 *.o
 *.class
 *.pyc
+*.log
 run
+
+//Ignore build folders
+/build/
