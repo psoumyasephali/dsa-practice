@@ -6,6 +6,6 @@
 *.pyc
 *.log
 run
-
+*.txt
 //Ignore build folders
 /build/
